@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_up">SIGN UP</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="pass_word">Password</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="add_new_contact">ADD NEW CONTACT</string>
+    <string name="name">NAME</string>
+    <string name="save">SAVE</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+</resources>
